@@ -4,4 +4,9 @@ public class Prueba2 {
 	// prueba
 	//hola mundo  
 	//cotundetne
+	
+	
+	public Prueba2(){
+		
+	}
 }
