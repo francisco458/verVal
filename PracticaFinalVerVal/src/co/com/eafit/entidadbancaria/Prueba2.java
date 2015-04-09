@@ -5,8 +5,9 @@ public class Prueba2 {
 	//hola mundo  
 	//cotundetne
 	
-	
+private String CONSTANTE = "D";
 	public Prueba2(){
 		
 	}
+
 }
