@@ -5,4 +5,8 @@ public class Prueba2 {
 	// hola mundo
 	// cotundetne
 	private String CONSTANTE = "D";
+	
+	public static void main(String[] args) {
+		System.out.println("Prueba");
+	}
 }
